@@ -1,0 +1,2165 @@
+2016-12-03 06:51:00 Error: Fatal Error (1): Unsupported operand types in [C:\xampp\htdocs\aguas\lib\Cake\View\Helper\HtmlHelper.php, line 540]
+2016-12-03 06:51:00 Error: [FatalErrorException] Unsupported operand types
+Request URL: /aguas/
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Unsupported ope...', 'C:\\xampp\\htdocs...', 540)
+#1 [internal function]: ErrorHandler::handleError(1, 'Unsupported ope...', 'C:\\xampp\\htdocs...', 540, Array)
+#2 C:\xampp\htdocs\aguas\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Unsupported ope...', 'C:\\xampp\\htdocs...', 540, Array)
+#3 C:\xampp\htdocs\aguas\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-03 08:06:03 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/img/logo.png
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 08:25:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 08:26:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 08:27:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 08:27:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 08:28:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 08:31:42 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 08:32:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 08:32:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 08:34:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 08:34:42 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 08:35:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 08:35:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 08:35:34 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 08:38:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 08:38:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 08:48:13 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 08:48:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 08:50:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 08:50:26 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 08:50:28 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 08:50:52 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 08:51:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 08:51:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 08:52:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 08:52:02 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 08:52:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 08:52:26 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 08:52:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:02:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:02:34 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:02:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:03:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:04:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:09:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:09:52 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:10:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:12:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:12:37 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:16:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:18:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:18:26 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:21:10 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:21:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:22:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:23:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:23:52 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:24:08 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:27:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:27:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:28:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:28:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:28:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:28:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:29:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:30:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:31:24 Error: Fatal Error (4): syntax error, unexpected 'ecução' (T_STRING) in [C:\xampp\htdocs\aguas\app\View\Pages\teste.ctp, line 91]
+2016-12-03 09:31:24 Error: [FatalErrorException] syntax error, unexpected 'ecução' (T_STRING)
+Request URL: /aguas/aberto
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 91)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 91, Array)
+#2 C:\xampp\htdocs\aguas\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 91, Array)
+#3 C:\xampp\htdocs\aguas\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-03 09:31:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:31:31 Error: Fatal Error (4): syntax error, unexpected 'ecução' (T_STRING) in [C:\xampp\htdocs\aguas\app\View\Pages\teste.ctp, line 91]
+2016-12-03 09:31:31 Error: [FatalErrorException] syntax error, unexpected 'ecução' (T_STRING)
+Request URL: /aguas/aberto
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 91)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 91, Array)
+#2 C:\xampp\htdocs\aguas\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 91, Array)
+#3 C:\xampp\htdocs\aguas\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-03 09:31:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:31:31 Error: Fatal Error (4): syntax error, unexpected 'ecução' (T_STRING) in [C:\xampp\htdocs\aguas\app\View\Pages\teste.ctp, line 91]
+2016-12-03 09:31:31 Error: [FatalErrorException] syntax error, unexpected 'ecução' (T_STRING)
+Request URL: /aguas/aberto
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 91)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 91, Array)
+#2 C:\xampp\htdocs\aguas\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 91, Array)
+#3 C:\xampp\htdocs\aguas\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-03 09:31:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:31:31 Error: Fatal Error (4): syntax error, unexpected 'ecução' (T_STRING) in [C:\xampp\htdocs\aguas\app\View\Pages\teste.ctp, line 91]
+2016-12-03 09:31:31 Error: [FatalErrorException] syntax error, unexpected 'ecução' (T_STRING)
+Request URL: /aguas/aberto
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 91)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 91, Array)
+#2 C:\xampp\htdocs\aguas\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 91, Array)
+#3 C:\xampp\htdocs\aguas\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-03 09:31:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:31:31 Error: Fatal Error (4): syntax error, unexpected 'ecução' (T_STRING) in [C:\xampp\htdocs\aguas\app\View\Pages\teste.ctp, line 91]
+2016-12-03 09:31:31 Error: [FatalErrorException] syntax error, unexpected 'ecução' (T_STRING)
+Request URL: /aguas/aberto
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 91)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 91, Array)
+#2 C:\xampp\htdocs\aguas\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 91, Array)
+#3 C:\xampp\htdocs\aguas\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-03 09:31:31 Error: Fatal Error (4): syntax error, unexpected 'ecução' (T_STRING) in [C:\xampp\htdocs\aguas\app\View\Pages\teste.ctp, line 91]
+2016-12-03 09:31:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:31:31 Error: [FatalErrorException] syntax error, unexpected 'ecução' (T_STRING)
+Request URL: /aguas/aberto
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 91)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 91, Array)
+#2 C:\xampp\htdocs\aguas\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 91, Array)
+#3 C:\xampp\htdocs\aguas\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-03 09:31:32 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:31:48 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\xampp\htdocs\aguas\app\View\Pages\teste.ctp, line 91]
+2016-12-03 09:31:48 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+Request URL: /aguas/aberto
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 91)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 91, Array)
+#2 C:\xampp\htdocs\aguas\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 91, Array)
+#3 C:\xampp\htdocs\aguas\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-03 09:31:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:31:52 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\xampp\htdocs\aguas\app\View\Pages\teste.ctp, line 91]
+2016-12-03 09:31:52 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+Request URL: /aguas/aberto
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 91)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 91, Array)
+#2 C:\xampp\htdocs\aguas\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 91, Array)
+#3 C:\xampp\htdocs\aguas\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-03 09:31:53 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:31:53 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [C:\xampp\htdocs\aguas\app\View\Pages\teste.ctp, line 91]
+2016-12-03 09:31:53 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+Request URL: /aguas/aberto
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 91)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 91, Array)
+#2 C:\xampp\htdocs\aguas\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 91, Array)
+#3 C:\xampp\htdocs\aguas\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-03 09:31:53 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:31:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:32:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:32:46 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:37:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:43:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:44:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:44:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 09:46:39 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 11:18:35 Error: [MissingActionException] Action PagesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'display',
+)
+Request URL: /aguas/
+Stack Trace:
+#0 C:\wamp\www\aguas\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\aguas\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 C:\wamp\www\aguas\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-03 13:13:21 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [1045] Access denied for user \'root\'@\'localhost\' (using password: NO)',
+  'enabled' => true,
+)
+Request URL: /aguas/
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Model/Datasource/DboSource.php(269): Mysql->connect()
+#1 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Model/ConnectionManager.php(105): DboSource->__construct(Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Model/Model.php(3640): ConnectionManager::getDataSource('default')
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Model/Model.php(1162): Model->setDataSource('default')
+#4 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Model/Model.php(3667): Model->setSource('clientes')
+#5 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Model/Model.php(1394): Model->getDataSource()
+#6 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/View/Helper/FormHelper.php(215): Model->schema()
+#7 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/View/Helper/FormHelper.php(480): FormHelper->_introspectModel('Cliente', 'fields')
+#8 /home/vidasnoaltarmda/public_html/aguas/app/View/Pages/home.ctp(7): FormHelper->create('Cliente')
+#9 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/View/View.php(971): include('/home/vidasnoal...')
+#10 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/View/View.php(933): View->_evaluate('/home/vidasnoal...', Array)
+#11 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/View/View.php(473): View->_render('/home/vidasnoal...')
+#12 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#13 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#14 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#15 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2016-12-03 17:44:44 Error: [MissingActionException] Action PagesController::fb_loginUrl() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'fb_loginUrl',
+)
+Request URL: /aguas/pages/fb_loginUrl
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-03 18:03:44 Error: [MissingViewException] View file "Clientes/enviar_s_m_s.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Clientes/enviar_s_m_s.ctp',
+)
+Request URL: /aguas/clientes
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest))
+#4 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-12-03 18:05:06 Error: [MissingViewException] View file "Clientes/enviar_s_m_s.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Clientes/enviar_s_m_s.ctp',
+)
+Request URL: /aguas/clientes
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest))
+#4 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-12-03 18:31:37 Error: [MissingControllerException] Controller class Send.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'Send.phpController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/send.php
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 18:54:16 Error: [MissingViewException] View file "Clientes/enviar_s_m_s.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Clientes/enviar_s_m_s.ctp',
+)
+Request URL: /aguas/clientes/enviarSMS
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest))
+#4 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-12-03 18:58:06 Error: [MissingViewException] View file "Clientes/enviar_s_m_s.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Clientes/enviar_s_m_s.ctp',
+)
+Request URL: /aguas/clientes/enviarSMS
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest))
+#4 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-12-03 19:00:41 Error: [MissingViewException] View file "Clientes/enviar_s_m_s.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Clientes/enviar_s_m_s.ctp',
+)
+Request URL: /aguas/clientes/enviarSMS
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest))
+#4 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-12-03 19:01:22 Error: [MissingViewException] View file "Clientes/enviar_s_m_s.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Clientes/enviar_s_m_s.ctp',
+)
+Request URL: /aguas/clientes/enviarSMS
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Controller/Controller.php(963): View->render(NULL, NULL)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest))
+#4 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-12-03 19:02:28 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 19:04:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 19:04:06 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 19:04:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 19:04:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 19:04:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 19:04:26 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 19:10:15 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 19:10:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 19:10:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 19:16:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 19:16:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 19:17:06 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 19:17:12 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 19:27:55 Error: Fatal Error (1): Call to undefined function requisicaoApi() in [/home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php, line 140]
+2016-12-03 19:27:55 Error: [FatalErrorException] Call to undefined function requisicaoApi()
+Request URL: /aguas/clientes/enviarSMS
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/home/vidasnoal...', 140)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/home/vidasnoal...', 140, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/home/vidasnoal...', 140, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-03 19:31:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 19:31:46 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 19:33:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 19:37:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 19:37:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 19:37:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 19:39:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-03 21:57:55 Error: Fatal Error (4): syntax error, unexpected 'var' (T_VAR), expecting variable (T_VARIABLE) in [/home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php, line 78]
+2016-12-03 21:57:55 Error: [FatalErrorException] syntax error, unexpected 'var' (T_VAR), expecting variable (T_VARIABLE)
+Request URL: /aguas/clientes
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/vidasnoal...', 78)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/vidasnoal...', 78, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/vidasnoal...', 78, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-03 21:58:36 Error: Fatal Error (4): syntax error, unexpected 'var' (T_VAR), expecting variable (T_VARIABLE) in [/home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php, line 78]
+2016-12-03 21:58:36 Error: [FatalErrorException] syntax error, unexpected 'var' (T_VAR), expecting variable (T_VARIABLE)
+Request URL: /aguas/clientes
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/vidasnoal...', 78)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/vidasnoal...', 78, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/vidasnoal...', 78, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-03 21:58:38 Error: Fatal Error (4): syntax error, unexpected 'var' (T_VAR), expecting variable (T_VARIABLE) in [/home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php, line 78]
+2016-12-03 21:58:38 Error: [FatalErrorException] syntax error, unexpected 'var' (T_VAR), expecting variable (T_VARIABLE)
+Request URL: /aguas/clientes
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/vidasnoal...', 78)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/vidasnoal...', 78, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/vidasnoal...', 78, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-03 21:58:48 Error: Fatal Error (4): syntax error, unexpected 'var' (T_VAR), expecting variable (T_VARIABLE) in [/home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php, line 78]
+2016-12-03 21:58:48 Error: [FatalErrorException] syntax error, unexpected 'var' (T_VAR), expecting variable (T_VARIABLE)
+Request URL: /aguas/clientes
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/vidasnoal...', 78)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/vidasnoal...', 78, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/vidasnoal...', 78, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-03 22:08:37 Error: [SocketException] Invalid email: "5553331111"
+Request URL: /aguas/clientes
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Network/Email/CakeEmail.php(604): CakeEmail->_validateEmail('5553331111')
+#1 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Network/Email/CakeEmail.php(642): CakeEmail->_setEmail('_from', Array, NULL)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Network/Email/CakeEmail.php(387): CakeEmail->_setEmailSingle('_from', Array, NULL, 'From requires o...')
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Controller/Component/EmailComponent.php(292): CakeEmail->from(Array)
+#4 /home/vidasnoaltarmda/public_html/aguas/app/Controller/Component/SmsComponent.php(122): EmailComponent->send('This is a text')
+#5 /home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php(95): SmsComponent->send(Array)
+#6 [internal function]: ClientesController->index()
+#7 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ClientesController), Array)
+#8 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest))
+#10 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2016-12-03 22:08:39 Error: [SocketException] Invalid email: "5553331111"
+Request URL: /aguas/clientes
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Network/Email/CakeEmail.php(604): CakeEmail->_validateEmail('5553331111')
+#1 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Network/Email/CakeEmail.php(642): CakeEmail->_setEmail('_from', Array, NULL)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Network/Email/CakeEmail.php(387): CakeEmail->_setEmailSingle('_from', Array, NULL, 'From requires o...')
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Controller/Component/EmailComponent.php(292): CakeEmail->from(Array)
+#4 /home/vidasnoaltarmda/public_html/aguas/app/Controller/Component/SmsComponent.php(122): EmailComponent->send('This is a text')
+#5 /home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php(95): SmsComponent->send(Array)
+#6 [internal function]: ClientesController->index()
+#7 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ClientesController), Array)
+#8 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest))
+#10 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2016-12-03 23:15:07 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fb_id' in 'where clause'
+Request URL: /aguas/pages/fb_login?code=AQAUVm32llKuDTtELTTjRNgu1OCVON1gmTZwxQKs9eBocfFRxO9PsKddBjnEgAdSwaCUQnesMIzxs16E5g4X9sZIv8yIFJIjYzBWV-XDgeRQR6o1gCDFg9k25arJQ7kefZVTQIB11l_sKZGsBOjD5mb7oRGL5RvcmJAxee4KwlOHtXPSp_YzTg5P1h5j_jqjH-v1NlrXWNPdtBD_zFQVmPmHjBv081aElUS9teTXgjZvlXUPDhS839odzn4-idn6wT1v21LB_V8dzbVqqJUPuQmq_zYEskIbQsJncDgzsLgedfArSBD3d0fMs3oGwFVcjFo&state=0a469eda021c61bb2a817971eeaa219f
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Model/Datasource/DboSource.php(470): PDOStatement->execute(Array)
+#1 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Model/Datasource/DboSource.php(436): DboSource->_execute('SELECT `Cliente...', Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Model/Datasource/DboSource.php(673): DboSource->execute('SELECT `Cliente...', Array, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Model/Datasource/DboSource.php(1184): DboSource->fetchAll('SELECT `Cliente...', false)
+#4 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Model/Model.php(3038): DboSource->read(Object(Cliente), Array)
+#5 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Model/Model.php(3010): Model->_readDataSource('first', Array)
+#6 /home/vidasnoaltarmda/public_html/aguas/app/Controller/PagesController.php(117): Model->find('first', Array)
+#7 [internal function]: PagesController->fb_login()
+#8 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#9 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#11 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-12-04 00:24:02 Error: Fatal Error (1): Class 'Client' not found in [/home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php, line 108]
+2016-12-04 00:24:02 Error: [FatalErrorException] Class 'Client' not found
+Request URL: /aguas/clientes
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Class 'Client' ...', '/home/vidasnoal...', 108)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Client' ...', '/home/vidasnoal...', 108, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Class 'Client' ...', '/home/vidasnoal...', 108, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-04 00:24:08 Error: Fatal Error (1): Class 'Client' not found in [/home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php, line 108]
+2016-12-04 00:24:08 Error: [FatalErrorException] Class 'Client' not found
+Request URL: /aguas/clientes
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Class 'Client' ...', '/home/vidasnoal...', 108)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Client' ...', '/home/vidasnoal...', 108, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Class 'Client' ...', '/home/vidasnoal...', 108, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-04 01:08:57 Error: Fatal Error (1): Class 'Client' not found in [/home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php, line 108]
+2016-12-04 01:08:57 Error: [FatalErrorException] Class 'Client' not found
+Request URL: /aguas/clientes
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Class 'Client' ...', '/home/vidasnoal...', 108)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Client' ...', '/home/vidasnoal...', 108, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Class 'Client' ...', '/home/vidasnoal...', 108, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-04 01:09:00 Error: Fatal Error (1): Class 'Client' not found in [/home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php, line 108]
+2016-12-04 01:09:00 Error: [FatalErrorException] Class 'Client' not found
+Request URL: /aguas/clientes
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Class 'Client' ...', '/home/vidasnoal...', 108)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Client' ...', '/home/vidasnoal...', 108, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Class 'Client' ...', '/home/vidasnoal...', 108, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-04 01:09:02 Error: Fatal Error (1): Class 'Client' not found in [/home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php, line 108]
+2016-12-04 01:09:02 Error: [FatalErrorException] Class 'Client' not found
+Request URL: /aguas/clientes
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Class 'Client' ...', '/home/vidasnoal...', 108)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Client' ...', '/home/vidasnoal...', 108, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Class 'Client' ...', '/home/vidasnoal...', 108, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-04 01:10:48 Error: Fatal Error (1): Class 'Client' not found in [/home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php, line 108]
+2016-12-04 01:10:48 Error: [FatalErrorException] Class 'Client' not found
+Request URL: /aguas/clientes
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Class 'Client' ...', '/home/vidasnoal...', 108)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Client' ...', '/home/vidasnoal...', 108, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Class 'Client' ...', '/home/vidasnoal...', 108, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-04 01:10:50 Error: Fatal Error (1): Class 'Client' not found in [/home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php, line 108]
+2016-12-04 01:10:50 Error: [FatalErrorException] Class 'Client' not found
+Request URL: /aguas/clientes
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Class 'Client' ...', '/home/vidasnoal...', 108)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Client' ...', '/home/vidasnoal...', 108, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Class 'Client' ...', '/home/vidasnoal...', 108, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-04 01:12:41 Error: Fatal Error (4): syntax error, unexpected 'use' (T_USE) in [/home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php, line 107]
+2016-12-04 01:12:41 Error: [FatalErrorException] syntax error, unexpected 'use' (T_USE)
+Request URL: /aguas/clientes
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/vidasnoal...', 107)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/vidasnoal...', 107, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/vidasnoal...', 107, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-04 01:12:42 Error: Fatal Error (4): syntax error, unexpected 'use' (T_USE) in [/home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php, line 107]
+2016-12-04 01:12:42 Error: [FatalErrorException] syntax error, unexpected 'use' (T_USE)
+Request URL: /aguas/clientes
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/vidasnoal...', 107)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/vidasnoal...', 107, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/vidasnoal...', 107, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-04 01:24:10 Error: [Twilio\Exceptions\RestException] [HTTP 400] Unable to create record: The 'To' number +15558675309 is not a valid phone number.
+Request URL: /aguas/clientes
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/Vendor/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/vidasnoaltarmda/public_html/aguas/app/Vendor/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/ACa11...', Array, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php(136): Twilio\Rest\Api\V2010\Account\MessageList->create('+15558675309', Array)
+#3 [internal function]: ClientesController->index()
+#4 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ClientesController), Array)
+#5 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest))
+#7 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-12-04 01:24:12 Error: [Twilio\Exceptions\RestException] [HTTP 400] Unable to create record: The 'To' number +15558675309 is not a valid phone number.
+Request URL: /aguas/clientes
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/Vendor/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/vidasnoaltarmda/public_html/aguas/app/Vendor/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/ACa11...', Array, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php(136): Twilio\Rest\Api\V2010\Account\MessageList->create('+15558675309', Array)
+#3 [internal function]: ClientesController->index()
+#4 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ClientesController), Array)
+#5 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest))
+#7 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-12-04 01:26:16 Error: [Twilio\Exceptions\RestException] [HTTP 400] Unable to create record: The From phone number +5567991997210 is not a valid, SMS-capable inbound phone number or short code for your account.
+Request URL: /aguas/clientes
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/Vendor/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/vidasnoaltarmda/public_html/aguas/app/Vendor/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/ACa11...', Array, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php(134): Twilio\Rest\Api\V2010\Account\MessageList->create('+5567991784175', Array)
+#3 [internal function]: ClientesController->index()
+#4 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ClientesController), Array)
+#5 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest))
+#7 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-12-04 01:26:18 Error: [Twilio\Exceptions\RestException] [HTTP 400] Unable to create record: The From phone number +5567991997210 is not a valid, SMS-capable inbound phone number or short code for your account.
+Request URL: /aguas/clientes
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/Vendor/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/vidasnoaltarmda/public_html/aguas/app/Vendor/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/ACa11...', Array, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php(134): Twilio\Rest\Api\V2010\Account\MessageList->create('+5567991784175', Array)
+#3 [internal function]: ClientesController->index()
+#4 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ClientesController), Array)
+#5 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest))
+#7 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-12-04 01:27:22 Error: [Twilio\Exceptions\RestException] [HTTP 400] Unable to create record: The From phone number +5567991784175 is not a valid, SMS-capable inbound phone number or short code for your account.
+Request URL: /aguas/clientes
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/Vendor/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/vidasnoaltarmda/public_html/aguas/app/Vendor/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/ACa11...', Array, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php(134): Twilio\Rest\Api\V2010\Account\MessageList->create('+5567991997210', Array)
+#3 [internal function]: ClientesController->index()
+#4 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ClientesController), Array)
+#5 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest))
+#7 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-12-04 01:27:24 Error: [Twilio\Exceptions\RestException] [HTTP 400] Unable to create record: The From phone number +5567991784175 is not a valid, SMS-capable inbound phone number or short code for your account.
+Request URL: /aguas/clientes
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/Vendor/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/vidasnoaltarmda/public_html/aguas/app/Vendor/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/ACa11...', Array, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php(134): Twilio\Rest\Api\V2010\Account\MessageList->create('+5567991997210', Array)
+#3 [internal function]: ClientesController->index()
+#4 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ClientesController), Array)
+#5 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest))
+#7 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-12-04 01:33:58 Error: [Twilio\Exceptions\RestException] [HTTP 400] Unable to create record: The From phone number +556791784175 is not a valid, SMS-capable inbound phone number or short code for your account.
+Request URL: /aguas/clientes
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/Vendor/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/vidasnoaltarmda/public_html/aguas/app/Vendor/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/ACa11...', Array, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php(134): Twilio\Rest\Api\V2010\Account\MessageList->create('+556791997210', Array)
+#3 [internal function]: ClientesController->index()
+#4 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ClientesController), Array)
+#5 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest))
+#7 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-12-04 01:34:00 Error: [Twilio\Exceptions\RestException] [HTTP 400] Unable to create record: The From phone number +556791784175 is not a valid, SMS-capable inbound phone number or short code for your account.
+Request URL: /aguas/clientes
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/Vendor/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/vidasnoaltarmda/public_html/aguas/app/Vendor/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/ACa11...', Array, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php(134): Twilio\Rest\Api\V2010\Account\MessageList->create('+556791997210', Array)
+#3 [internal function]: ClientesController->index()
+#4 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ClientesController), Array)
+#5 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest))
+#7 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-12-04 01:42:39 Error: [Twilio\Exceptions\RestException] [HTTP 400] Unable to create record: The From phone number +5567991784175 is not a valid, SMS-capable inbound phone number or short code for your account.
+Request URL: /aguas/clientes
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/Vendor/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/vidasnoaltarmda/public_html/aguas/app/Vendor/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/ACe0b...', Array, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php(134): Twilio\Rest\Api\V2010\Account\MessageList->create('+5567991997210', Array)
+#3 [internal function]: ClientesController->index()
+#4 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ClientesController), Array)
+#5 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest))
+#7 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-12-04 01:42:41 Error: [Twilio\Exceptions\RestException] [HTTP 400] Unable to create record: The From phone number +5567991784175 is not a valid, SMS-capable inbound phone number or short code for your account.
+Request URL: /aguas/clientes
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/Vendor/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/vidasnoaltarmda/public_html/aguas/app/Vendor/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/ACe0b...', Array, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php(134): Twilio\Rest\Api\V2010\Account\MessageList->create('+5567991997210', Array)
+#3 [internal function]: ClientesController->index()
+#4 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ClientesController), Array)
+#5 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest))
+#7 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-12-04 01:42:45 Error: [Twilio\Exceptions\RestException] [HTTP 400] Unable to create record: The From phone number +5567991784175 is not a valid, SMS-capable inbound phone number or short code for your account.
+Request URL: /aguas/clientes
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/Vendor/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/vidasnoaltarmda/public_html/aguas/app/Vendor/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/ACe0b...', Array, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php(134): Twilio\Rest\Api\V2010\Account\MessageList->create('+5567991997210', Array)
+#3 [internal function]: ClientesController->index()
+#4 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ClientesController), Array)
+#5 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest))
+#7 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-12-04 03:06:07 Error: [MissingControllerException] Controller class AbertoController could not be found.
+Exception Attributes: array (
+  'class' => 'AbertoController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/aberto
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 03:06:13 Error: [Twilio\Exceptions\RestException] [HTTP 400] Unable to create record: The From phone number +5567991784175 is not a valid, SMS-capable inbound phone number or short code for your account.
+Request URL: /aguas/clientes
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/Vendor/Twilio/Version.php(207): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/vidasnoaltarmda/public_html/aguas/app/Vendor/Twilio/Rest/Api/V2010/Account/MessageList.php(63): Twilio\Version->create('POST', '/Accounts/ACe0b...', Array, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php(134): Twilio\Rest\Api\V2010\Account\MessageList->create('+5567991997210', Array)
+#3 [internal function]: ClientesController->index()
+#4 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ClientesController), Array)
+#5 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientesController), Object(CakeRequest))
+#7 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2016-12-04 03:20:10 Error: [MissingControllerException] Controller class AbertoController could not be found.
+Exception Attributes: array (
+  'class' => 'AbertoController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/aberto
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 03:20:24 Error: [MissingControllerException] Controller class AbertoController could not be found.
+Exception Attributes: array (
+  'class' => 'AbertoController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/aberto
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 03:20:49 Error: [MissingControllerException] Controller class AbertoController could not be found.
+Exception Attributes: array (
+  'class' => 'AbertoController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/aberto
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 03:37:27 Error: Fatal Error (1): Call to a member function find() on a non-object in [/home/vidasnoaltarmda/public_html/aguas/app/Controller/PagesController.php, line 151]
+2016-12-04 03:37:27 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /aguas/cadastre-se
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/vidasnoal...', 151)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/vidasnoal...', 151, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/vidasnoal...', 151, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-04 05:09:19 Error: [MissingBehaviorException] Behavior class OrderBehavior could not be found.
+Exception Attributes: array (
+  'class' => 'OrderBehavior',
+  'plugin' => false,
+)
+Request URL: /aguas/chamados/1
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Model/BehaviorCollection.php(66): BehaviorCollection->load('Order', Array)
+#1 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Model/Model.php(781): BehaviorCollection->init('EventoChamado', Array)
+#2 [internal function]: Model->__construct(Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Utility/ClassRegistry.php(169): ReflectionClass->newInstance(Array)
+#4 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Controller/Controller.php(742): ClassRegistry::init(Array)
+#5 /home/vidasnoaltarmda/public_html/aguas/app/Controller/ChamadosController.php(96): Controller->loadModel('EventoChamado')
+#6 [internal function]: ChamadosController->view('1')
+#7 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ChamadosController), Array)
+#8 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ChamadosController), Object(CakeRequest))
+#10 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2016-12-04 05:09:43 Error: [MissingTableException] Table evento_chamados for model EventoChamado was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'evento_chamados',
+  'class' => 'EventoChamado',
+  'ds' => 'default',
+)
+Request URL: /aguas/chamados/1
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Model/Model.php(3667): Model->setSource('evento_chamados')
+#1 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Model/Model.php(3038): Model->getDataSource()
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Model/Model.php(3010): Model->_readDataSource('all', Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/app/Controller/ChamadosController.php(99): Model->find('all', Array)
+#4 [internal function]: ChamadosController->view('1')
+#5 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ChamadosController), Array)
+#6 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ChamadosController), Object(CakeRequest))
+#8 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2016-12-04 05:09:44 Error: [MissingTableException] Table evento_chamados for model EventoChamado was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'evento_chamados',
+  'class' => 'EventoChamado',
+  'ds' => 'default',
+)
+Request URL: /aguas/chamados/1
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Model/Model.php(3667): Model->setSource('evento_chamados')
+#1 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Model/Model.php(3038): Model->getDataSource()
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Model/Model.php(3010): Model->_readDataSource('all', Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/app/Controller/ChamadosController.php(99): Model->find('all', Array)
+#4 [internal function]: ChamadosController->view('1')
+#5 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(ChamadosController), Array)
+#6 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ChamadosController), Object(CakeRequest))
+#8 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2016-12-04 05:11:21 Error: Fatal Error (1): Class 'Util' not found in [/home/vidasnoaltarmda/public_html/aguas/app/View/Chamados/index.ctp, line 31]
+2016-12-04 05:11:21 Error: [FatalErrorException] Class 'Util' not found
+Request URL: /aguas/chamados/
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Class 'Util' no...', '/home/vidasnoal...', 31)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Util' no...', '/home/vidasnoal...', 31, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Class 'Util' no...', '/home/vidasnoal...', 31, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-04 05:15:53 Error: Fatal Error (1): Class 'Util' not found in [/home/vidasnoaltarmda/public_html/aguas/app/View/Chamados/index.ctp, line 31]
+2016-12-04 05:15:53 Error: [FatalErrorException] Class 'Util' not found
+Request URL: /aguas/chamados/
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Class 'Util' no...', '/home/vidasnoal...', 31)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Util' no...', '/home/vidasnoal...', 31, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Class 'Util' no...', '/home/vidasnoal...', 31, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-04 05:18:28 Error: [MissingActionException] Action ChamadosController::chamados() could not be found.
+Exception Attributes: array (
+  'controller' => 'ChamadosController',
+  'action' => 'chamados',
+)
+Request URL: /aguas/chamados/chamados/vazamento-cav-3-4/2
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ChamadosController), Object(CakeRequest))
+#2 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-04 05:25:55 Error: [MissingActionException] Action ChamadosController::chamados() could not be found.
+Exception Attributes: array (
+  'controller' => 'ChamadosController',
+  'action' => 'chamados',
+)
+Request URL: /aguas/chamados/chamados/vazamento-cav-3-4/2
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ChamadosController), Object(CakeRequest))
+#2 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-04 05:25:57 Error: [MissingActionException] Action ChamadosController::chamados() could not be found.
+Exception Attributes: array (
+  'controller' => 'ChamadosController',
+  'action' => 'chamados',
+)
+Request URL: /aguas/chamados/chamados/vazamento-cav-3-4/2
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ChamadosController), Object(CakeRequest))
+#2 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-04 05:31:59 Error: [MissingActionException] Action ChamadosController::chamados() could not be found.
+Exception Attributes: array (
+  'controller' => 'ChamadosController',
+  'action' => 'chamados',
+)
+Request URL: /aguas/chamados/chamados/vazamento-cav-3-4/2
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ChamadosController), Object(CakeRequest))
+#2 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-04 05:32:01 Error: [MissingActionException] Action ChamadosController::chamados() could not be found.
+Exception Attributes: array (
+  'controller' => 'ChamadosController',
+  'action' => 'chamados',
+)
+Request URL: /aguas/chamados/chamados/vazamento-cav-3-4/2
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ChamadosController), Object(CakeRequest))
+#2 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-04 05:32:07 Error: [MissingActionException] Action ChamadosController::chamados() could not be found.
+Exception Attributes: array (
+  'controller' => 'ChamadosController',
+  'action' => 'chamados',
+)
+Request URL: /aguas/chamados/chamados/corte-no-cavalete/1
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ChamadosController), Object(CakeRequest))
+#2 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-04 07:28:30 Error: Fatal Error (4): syntax error, unexpected ';', expecting ')' in [/home/vidasnoaltarmda/public_html/aguas/app/Controller/ApiController.php, line 59]
+2016-12-04 07:28:30 Error: [FatalErrorException] syntax error, unexpected ';', expecting ')'
+Request URL: /aguas/api/teste
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/vidasnoal...', 59)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/vidasnoal...', 59, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/vidasnoal...', 59, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-04 07:28:47 Error: Fatal Error (4): syntax error, unexpected ';', expecting ')' in [/home/vidasnoaltarmda/public_html/aguas/app/Controller/ApiController.php, line 59]
+2016-12-04 07:28:47 Error: [FatalErrorException] syntax error, unexpected ';', expecting ')'
+Request URL: /aguas/api/teste
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/vidasnoal...', 59)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/vidasnoal...', 59, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/vidasnoal...', 59, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-04 07:28:54 Error: Fatal Error (4): syntax error, unexpected ';', expecting ')' in [/home/vidasnoaltarmda/public_html/aguas/app/Controller/ApiController.php, line 106]
+2016-12-04 07:28:54 Error: [FatalErrorException] syntax error, unexpected ';', expecting ')'
+Request URL: /aguas/api/teste
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/vidasnoal...', 106)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/vidasnoal...', 106, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/vidasnoal...', 106, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-04 07:28:57 Error: Fatal Error (4): syntax error, unexpected ';', expecting ')' in [/home/vidasnoaltarmda/public_html/aguas/app/Controller/ApiController.php, line 106]
+2016-12-04 07:28:57 Error: [FatalErrorException] syntax error, unexpected ';', expecting ')'
+Request URL: /aguas/api/teste
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/vidasnoal...', 106)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/vidasnoal...', 106, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/vidasnoal...', 106, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-04 07:29:12 Error: Fatal Error (4): syntax error, unexpected ';', expecting ')' in [/home/vidasnoaltarmda/public_html/aguas/app/Controller/ApiController.php, line 126]
+2016-12-04 07:29:12 Error: [FatalErrorException] syntax error, unexpected ';', expecting ')'
+Request URL: /aguas/api/teste
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/vidasnoal...', 126)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/vidasnoal...', 126, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/vidasnoal...', 126, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-04 07:35:50 Error: [MissingControllerException] Controller class ApisController could not be found.
+Exception Attributes: array (
+  'class' => 'ApisController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/apis/teste
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 07:38:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 07:41:00 Error: [MissingControllerException] Controller class ApidController could not be found.
+Exception Attributes: array (
+  'class' => 'ApidController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/apid/teste
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 07:41:56 Error: [MissingControllerException] Controller class ApisController could not be found.
+Exception Attributes: array (
+  'class' => 'ApisController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/apis/teste
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 07:42:08 Error: [MissingControllerException] Controller class ApiController could not be found.
+Exception Attributes: array (
+  'class' => 'ApiController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/api/teste
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 07:43:21 Error: [MissingControllerException] Controller class ApiController could not be found.
+Exception Attributes: array (
+  'class' => 'ApiController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/api/teste
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 07:46:40 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 07:50:15 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 08:00:12 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 08:00:34 Error: Fatal Error (1): Call to undefined method View::input() in [/home/vidasnoaltarmda/public_html/aguas/app/View/Pages/cadastre_se.ctp, line 25]
+2016-12-04 08:00:34 Error: [FatalErrorException] Call to undefined method View::input()
+Request URL: /aguas/cadastre-se
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/home/vidasnoal...', 25)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/home/vidasnoal...', 25, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/home/vidasnoal...', 25, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-04 08:00:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 08:00:38 Error: Fatal Error (1): Call to undefined method View::input() in [/home/vidasnoaltarmda/public_html/aguas/app/View/Pages/cadastre_se.ctp, line 25]
+2016-12-04 08:00:38 Error: [FatalErrorException] Call to undefined method View::input()
+Request URL: /aguas/cadastre-se
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/home/vidasnoal...', 25)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/home/vidasnoal...', 25, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/home/vidasnoal...', 25, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-04 08:00:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 08:00:54 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 08:02:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 08:02:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 08:03:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 08:03:08 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 08:03:31 Error: [PDOException] SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'fb_id' at row 1
+Request URL: /aguas/cadastre-se
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Model/Datasource/DboSource.php(470): PDOStatement->execute(Array)
+#1 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Model/Datasource/DboSource.php(436): DboSource->_execute('UPDATE `aguas`....', Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Model/Datasource/Database/Mysql.php(415): DboSource->execute('UPDATE `aguas`....')
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Model/Model.php(1924): Mysql->update(Object(Cliente), Array, Array)
+#4 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Model/Model.php(1758): Model->_doSave(Array, Array)
+#5 /home/vidasnoaltarmda/public_html/aguas/app/Controller/PagesController.php(171): Model->save(Array)
+#6 [internal function]: PagesController->cadastre_se()
+#7 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#8 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#10 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2016-12-04 08:03:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 08:04:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 08:04:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 08:04:53 Error: [PDOException] SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'fb_id' at row 1
+Request URL: /aguas/cadastre-se
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Model/Datasource/DboSource.php(470): PDOStatement->execute(Array)
+#1 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Model/Datasource/DboSource.php(436): DboSource->_execute('UPDATE `aguas`....', Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Model/Datasource/Database/Mysql.php(415): DboSource->execute('UPDATE `aguas`....')
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Model/Model.php(1924): Mysql->update(Object(Cliente), Array, Array)
+#4 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Model/Model.php(1758): Model->_doSave(Array, Array)
+#5 /home/vidasnoaltarmda/public_html/aguas/app/Controller/PagesController.php(171): Model->save(Array)
+#6 [internal function]: PagesController->cadastre_se()
+#7 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Controller/Controller.php(491): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#8 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#10 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2016-12-04 08:04:54 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 08:06:10 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 08:06:13 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 08:06:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 08:06:37 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 08:06:40 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 08:06:54 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 08:07:10 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 08:07:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 08:21:55 Error: Fatal Error (4): syntax error, unexpected 'elseif' (T_ELSEIF) in [/home/vidasnoaltarmda/public_html/aguas/app/Controller/PagesController.php, line 163]
+2016-12-04 08:21:55 Error: [FatalErrorException] syntax error, unexpected 'elseif' (T_ELSEIF)
+Request URL: /aguas/
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/vidasnoal...', 163)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/vidasnoal...', 163, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/vidasnoal...', 163, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-04 08:22:33 Error: Fatal Error (4): syntax error, unexpected 'elseif' (T_ELSEIF) in [/home/vidasnoaltarmda/public_html/aguas/app/Controller/PagesController.php, line 162]
+2016-12-04 08:22:33 Error: [FatalErrorException] syntax error, unexpected 'elseif' (T_ELSEIF)
+Request URL: /aguas/
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/vidasnoal...', 162)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/vidasnoal...', 162, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/vidasnoal...', 162, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-04 08:24:02 Error: [MissingControllerException] Controller class CadastroController could not be found.
+Exception Attributes: array (
+  'class' => 'CadastroController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/cadastro
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 08:34:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 08:35:40 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW) in [/home/vidasnoaltarmda/public_html/aguas/app/View/Pages/cadastre_se.ctp, line 25]
+2016-12-04 08:35:40 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+Request URL: /aguas/cadastre-se
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/vidasnoal...', 25)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/vidasnoal...', 25, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/vidasnoal...', 25, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-04 08:35:41 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 08:36:02 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 08:36:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 08:36:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 08:36:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 10:01:12 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/css/bootstrap.min.css.map
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 10:21:03 Error: Fatal Error (1): Call to undefined function uppercase() in [/home/vidasnoaltarmda/public_html/aguas/app/View/Layouts/default.ctp, line 45]
+2016-12-04 10:21:03 Error: [FatalErrorException] Call to undefined function uppercase()
+Request URL: /aguas/chamados
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/home/vidasnoal...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/home/vidasnoal...', 45, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/home/vidasnoal...', 45, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-04 10:21:10 Error: Fatal Error (1): Call to undefined function uppercase() in [/home/vidasnoaltarmda/public_html/aguas/app/View/Layouts/default.ctp, line 45]
+2016-12-04 10:21:10 Error: [FatalErrorException] Call to undefined function uppercase()
+Request URL: /aguas/chamados
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/home/vidasnoal...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/home/vidasnoal...', 45, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/home/vidasnoal...', 45, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-04 10:21:11 Error: Fatal Error (1): Call to undefined function uppercase() in [/home/vidasnoaltarmda/public_html/aguas/app/View/Layouts/default.ctp, line 45]
+2016-12-04 10:21:11 Error: [FatalErrorException] Call to undefined function uppercase()
+Request URL: /aguas/chamados
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/home/vidasnoal...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/home/vidasnoal...', 45, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/home/vidasnoal...', 45, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-04 10:21:11 Error: Fatal Error (1): Call to undefined function uppercase() in [/home/vidasnoaltarmda/public_html/aguas/app/View/Layouts/default.ctp, line 45]
+2016-12-04 10:21:11 Error: [FatalErrorException] Call to undefined function uppercase()
+Request URL: /aguas/chamados
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/home/vidasnoal...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/home/vidasnoal...', 45, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/home/vidasnoal...', 45, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-04 10:21:13 Error: Fatal Error (1): Call to undefined function uppercase() in [/home/vidasnoaltarmda/public_html/aguas/app/View/Layouts/default.ctp, line 45]
+2016-12-04 10:21:13 Error: [FatalErrorException] Call to undefined function uppercase()
+Request URL: /aguas/chamados
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/home/vidasnoal...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/home/vidasnoal...', 45, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/home/vidasnoal...', 45, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-04 10:21:14 Error: Fatal Error (1): Call to undefined function uppercase() in [/home/vidasnoaltarmda/public_html/aguas/app/View/Layouts/default.ctp, line 45]
+2016-12-04 10:21:14 Error: [FatalErrorException] Call to undefined function uppercase()
+Request URL: /aguas/chamados
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/home/vidasnoal...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/home/vidasnoal...', 45, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/home/vidasnoal...', 45, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-04 10:23:13 Error: [MissingControllerException] Controller class HomeController could not be found.
+Exception Attributes: array (
+  'class' => 'HomeController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/home/logout
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 10:24:26 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW) in [/home/vidasnoaltarmda/public_html/aguas/app/Controller/PagesController.php, line 189]
+2016-12-04 10:24:26 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+Request URL: /aguas/pages/logout
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/vidasnoal...', 189)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/vidasnoal...', 189, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/vidasnoal...', 189, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-04 10:24:33 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW) in [/home/vidasnoaltarmda/public_html/aguas/app/Controller/PagesController.php, line 189]
+2016-12-04 10:24:33 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+Request URL: /aguas/pages/logout
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Error/ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/vidasnoal...', 189)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/vidasnoal...', 189, Array)
+#2 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/vidasnoal...', 189, Array)
+#3 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Core/App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-12-04 10:53:30 Error: [MissingControllerException] Controller class ChamadosController could not be found.
+Exception Attributes: array (
+  'class' => 'ChamadosController',
+  'plugin' => NULL,
+)
+Request URL: /aguas/chamados/corte-no-cavalete/1
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-04 11:12:28 Error: [MissingActionException] Action ChamadosController::chamados() could not be found.
+Exception Attributes: array (
+  'controller' => 'ChamadosController',
+  'action' => 'chamados',
+)
+Request URL: /aguas/chamados/chamados/vazamento-cav-3-4/2
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ChamadosController), Object(CakeRequest))
+#2 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-04 11:20:04 Error: [MissingActionException] Action ChamadosController::chamados() could not be found.
+Exception Attributes: array (
+  'controller' => 'ChamadosController',
+  'action' => 'chamados',
+)
+Request URL: /aguas/chamados/chamados/corte-no-cavalete/1
+Stack Trace:
+#0 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/vidasnoaltarmda/public_html/aguas/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ChamadosController), Object(CakeRequest))
+#2 /home/vidasnoaltarmda/public_html/aguas/app/webroot/index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}

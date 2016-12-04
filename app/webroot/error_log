@@ -1,0 +1,35 @@
+[03-Dec-2016 19:27:55 UTC] PHP Fatal error:  Call to undefined function requisicaoApi() in /home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php on line 140
+[03-Dec-2016 21:57:55 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR), expecting variable (T_VARIABLE) in /home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php on line 78
+[03-Dec-2016 21:58:36 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR), expecting variable (T_VARIABLE) in /home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php on line 78
+[03-Dec-2016 21:58:38 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR), expecting variable (T_VARIABLE) in /home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php on line 78
+[03-Dec-2016 21:58:48 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR), expecting variable (T_VARIABLE) in /home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php on line 78
+[04-Dec-2016 00:24:02 UTC] PHP Fatal error:  Class 'Client' not found in /home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php on line 108
+[04-Dec-2016 00:24:08 UTC] PHP Fatal error:  Class 'Client' not found in /home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php on line 108
+[04-Dec-2016 01:08:57 UTC] PHP Fatal error:  Class 'Client' not found in /home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php on line 108
+[04-Dec-2016 01:09:00 UTC] PHP Fatal error:  Class 'Client' not found in /home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php on line 108
+[04-Dec-2016 01:09:02 UTC] PHP Fatal error:  Class 'Client' not found in /home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php on line 108
+[04-Dec-2016 01:10:48 UTC] PHP Fatal error:  Class 'Client' not found in /home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php on line 108
+[04-Dec-2016 01:10:50 UTC] PHP Fatal error:  Class 'Client' not found in /home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php on line 108
+[04-Dec-2016 01:12:41 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php on line 107
+[04-Dec-2016 01:12:42 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/vidasnoaltarmda/public_html/aguas/app/Controller/ClientesController.php on line 107
+[04-Dec-2016 03:37:27 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/vidasnoaltarmda/public_html/aguas/app/Controller/PagesController.php on line 151
+[04-Dec-2016 05:11:21 UTC] PHP Fatal error:  Class 'Util' not found in /home/vidasnoaltarmda/public_html/aguas/app/View/Chamados/index.ctp on line 31
+[04-Dec-2016 05:15:53 UTC] PHP Fatal error:  Class 'Util' not found in /home/vidasnoaltarmda/public_html/aguas/app/View/Chamados/index.ctp on line 31
+[04-Dec-2016 07:28:30 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/vidasnoaltarmda/public_html/aguas/app/Controller/ApiController.php on line 59
+[04-Dec-2016 07:28:47 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/vidasnoaltarmda/public_html/aguas/app/Controller/ApiController.php on line 59
+[04-Dec-2016 07:28:54 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/vidasnoaltarmda/public_html/aguas/app/Controller/ApiController.php on line 106
+[04-Dec-2016 07:28:57 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/vidasnoaltarmda/public_html/aguas/app/Controller/ApiController.php on line 106
+[04-Dec-2016 07:29:12 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/vidasnoaltarmda/public_html/aguas/app/Controller/ApiController.php on line 126
+[04-Dec-2016 08:00:34 UTC] PHP Fatal error:  Call to undefined method View::input() in /home/vidasnoaltarmda/public_html/aguas/app/View/Pages/cadastre_se.ctp on line 25
+[04-Dec-2016 08:00:38 UTC] PHP Fatal error:  Call to undefined method View::input() in /home/vidasnoaltarmda/public_html/aguas/app/View/Pages/cadastre_se.ctp on line 25
+[04-Dec-2016 08:21:55 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/vidasnoaltarmda/public_html/aguas/app/Controller/PagesController.php on line 163
+[04-Dec-2016 08:22:33 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/vidasnoaltarmda/public_html/aguas/app/Controller/PagesController.php on line 162
+[04-Dec-2016 08:35:40 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/vidasnoaltarmda/public_html/aguas/app/View/Pages/cadastre_se.ctp on line 25
+[04-Dec-2016 10:21:03 UTC] PHP Fatal error:  Call to undefined function uppercase() in /home/vidasnoaltarmda/public_html/aguas/app/View/Layouts/default.ctp on line 45
+[04-Dec-2016 10:21:10 UTC] PHP Fatal error:  Call to undefined function uppercase() in /home/vidasnoaltarmda/public_html/aguas/app/View/Layouts/default.ctp on line 45
+[04-Dec-2016 10:21:11 UTC] PHP Fatal error:  Call to undefined function uppercase() in /home/vidasnoaltarmda/public_html/aguas/app/View/Layouts/default.ctp on line 45
+[04-Dec-2016 10:21:11 UTC] PHP Fatal error:  Call to undefined function uppercase() in /home/vidasnoaltarmda/public_html/aguas/app/View/Layouts/default.ctp on line 45
+[04-Dec-2016 10:21:13 UTC] PHP Fatal error:  Call to undefined function uppercase() in /home/vidasnoaltarmda/public_html/aguas/app/View/Layouts/default.ctp on line 45
+[04-Dec-2016 10:21:14 UTC] PHP Fatal error:  Call to undefined function uppercase() in /home/vidasnoaltarmda/public_html/aguas/app/View/Layouts/default.ctp on line 45
+[04-Dec-2016 10:24:26 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/vidasnoaltarmda/public_html/aguas/app/Controller/PagesController.php on line 189
+[04-Dec-2016 10:24:33 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/vidasnoaltarmda/public_html/aguas/app/Controller/PagesController.php on line 189
